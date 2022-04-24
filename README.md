@@ -14,6 +14,7 @@
 ---
 ## Links
 GitHub Repository:  https://github.com/tooqk4u/Social-Media_App
+
 Video Link: https://drive.google.com/file/d/1BnAt_YIHfDb9BM6kuwY9Aoq3gz0V2Zl9/view
 
 
@@ -96,6 +97,7 @@ GitHub: [tooqk4u](https://github.com/tooqk4u).
 ## Credits 
  
 Shelley Soucie, 
+
 Phil Loy
 
 ---
