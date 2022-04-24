@@ -94,6 +94,7 @@ const thoughtController = {
 
     // delete reaction
     removeReaction({ params }, res) {
+        console.log("thoughtId" , params.thoughtId, " reactionId", params.reactionId)
         Thought.findOneAndUpdate(
             { _id: params.thoughtId },
             { $pull: { reactions: { reactionId: params.reactionId } } },
