@@ -29,7 +29,6 @@ The Social Network API is an app that focuses on MongoDB, Mongoose and Express f
 * [Installation](#installation)
 * [Usage](#usage)
 * [Acknowledgements](#acknowledgements)
-* [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
 * [Credits](#credits)
@@ -43,6 +42,8 @@ The Social Network API is an app that focuses on MongoDB, Mongoose and Express f
 
 Once the GitHub repo is cloned to your local files, in the command line you will install the Node.js packages of Express and Mongoose. MongoDB should already be downloading and running on your operating system. .gitignore the node packages
 
+
+[Back to Contents](##table-of-contents)
 ---
 ---
 
@@ -58,6 +59,7 @@ SCREENSHOTS
 ![DELETEThought](./utils/images/DELETE%20ROUTE.PNG "DELETE thought")
 
 
+[Back to Contents](###table-of-contents)
 ---
 ---
 
@@ -66,12 +68,11 @@ SCREENSHOTS
 
 - [Tech badges by Ileriayo](https://github.com/Ileriayo/markdown-badges)
 - [Express.js](https://www.npmjs.com/package/express)
-- [dotenv](https://www.npmjs.com/package/dotenv)
-- [Handlebars](https://handlebarsjs.com/)
 - [express-sessions](https://www.npmjs.com/package/express-session)
-- [mysql2](https://www.npmjs.com/package/mysql2)
-- [sequelize](https://sequelize.org/)
 
+[Back to Contents](###table-of-contents)
+---
+---
 
 ## License
 
@@ -79,6 +80,8 @@ Information on the license(s)
 
 https://opensource.org/licenses/MIT
 
+
+[Back to Contents](###table-of-contents)
 ---
 ---
 
@@ -86,6 +89,7 @@ https://opensource.org/licenses/MIT
 
 You can test the API routes using insomina
 
+[Back to Contents](####table-of-contents)
 ---
 ---
 
@@ -97,6 +101,8 @@ Email: [tooqk4u@protonmail.com](mailto:tooqk4u@protonmail.com)
 
 GitHub: [tooqk4u](https://github.com/tooqk4u).
 
+
+[Back to Contents](####table-of-contents)
  ---
  ---
 
@@ -109,4 +115,4 @@ Phil Loy
 ---
 ---
 
-[Back to Contents](#table-of-contents)
+[Back to Contents](##table-of-contents)
