@@ -50,6 +50,8 @@ Once the GitHub repo is cloned to your local files, in the command line you will
 
 To start the server in your command line when you are in the root directory, type "node server" or "node server.js". Then open Insomnia Core and test the routes with the Local Host url and appropriate endpoints.
 
+SCREENSHOTS
+
 ![GETUser](./utils/images/GET%20ROUTE.PNG  "GET all users")
 ![POSTThought](./utils/images/POST%20ROUTE.PNG "POST thoughts")
 ![UPDATEThought](./utils/images/UPDATE%20ROUTE.PNG "UPDATE a thought")
