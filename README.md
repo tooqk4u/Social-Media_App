@@ -12,6 +12,7 @@
 
 
 ---
+---
 ## Links
 GitHub Repository:  https://github.com/tooqk4u/Social-Media_App
 
@@ -22,6 +23,7 @@ Video Link: https://drive.google.com/file/d/1BnAt_YIHfDb9BM6kuwY9Aoq3gz0V2Zl9/vi
   
 The Social Network API is an app that focuses on MongoDB, Mongoose and Express for testing server routes. With the MVC in mind, you can create users, have thoughts on users posts, and react to thoughts. You will be able to update and delete users and thoughts. The use of Insomnia Core will help visualize testing routes and making requests to the server. There will also be virtuals as to friend counts and reaction counts.
 
+---
 ---
   
 ## Table of Contents 
@@ -42,10 +44,10 @@ The Social Network API is an app that focuses on MongoDB, Mongoose and Express f
 
 Once the GitHub repo is cloned to your local files, in the command line you will install the Node.js packages of Express and Mongoose. MongoDB should already be downloading and running on your operating system. .gitignore the node packages
 
+---
+---
+[Back to Contents](#table-of-contents)
 
-[Back to Contents](##table-of-contents)
----
----
 
 ## Usage
 
@@ -58,10 +60,9 @@ SCREENSHOTS
 ![UPDATEThought](./utils/images/UPDATE%20ROUTE.PNG "UPDATE a thought")
 ![DELETEThought](./utils/images/DELETE%20ROUTE.PNG "DELETE thought")
 
-
-[Back to Contents](###table-of-contents)
 ---
 ---
+[Back to Contents](#table-of-contents)
 
 
 ## Acknowledgements
@@ -70,9 +71,10 @@ SCREENSHOTS
 - [Express.js](https://www.npmjs.com/package/express)
 - [express-sessions](https://www.npmjs.com/package/express-session)
 
-[Back to Contents](###table-of-contents)
 ---
 ---
+[Back to Contents](#table-of-contents)
+
 
 ## License
 
@@ -81,17 +83,21 @@ Information on the license(s)
 https://opensource.org/licenses/MIT
 
 
-[Back to Contents](###table-of-contents)
 ---
 ---
+[Back to Contents](#table-of-contents)
+
 
 ## Tests
 
 You can test the API routes using insomina
 
-[Back to Contents](####table-of-contents)
+
 ---
 ---
+[Back to Contents](#table-of-contents)
+
+
 
 ## Questions?
 
@@ -102,7 +108,7 @@ Email: [tooqk4u@protonmail.com](mailto:tooqk4u@protonmail.com)
 GitHub: [tooqk4u](https://github.com/tooqk4u).
 
 
-[Back to Contents](####table-of-contents)
+[Back to Contents](#table-of-contents)
  ---
  ---
 
@@ -115,4 +121,4 @@ Phil Loy
 ---
 ---
 
-[Back to Contents](##table-of-contents)
+[Back to Contents](#table-of-contents)
