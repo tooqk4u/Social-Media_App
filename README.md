@@ -1,5 +1,15 @@
 # Social-Media_App
+
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  ## Build
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+!![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![NoSQL](https://img.shields.io/badge/nosql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
 ## Links
@@ -14,10 +24,9 @@ The Social Network API is an app that focuses on MongoDB, Mongoose and Express f
 ---
   
 ## Table of Contents 
-
+* [Build](#build)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Build](#build)
 * [Acknowledgements](#acknowledgements)
 * [Contributing](#contributing)
 * [Tests](#tests)
@@ -44,18 +53,7 @@ o start the server in your command line when you are in the root directory, type
 
 ---
 ---
-## Build
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-!![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![NoSQL](https://img.shields.io/badge/nosql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
----
----
 
 ## Acknowledgements
 
